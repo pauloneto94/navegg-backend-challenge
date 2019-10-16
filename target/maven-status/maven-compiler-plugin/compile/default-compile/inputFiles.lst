@@ -1,0 +1,10 @@
+/Users/paulojosedecarvalhoneto/Documents/Navegg Challenge/CRUDApi/src/main/java/com/navegg/challenge/CRUDApi/service/ItemService.java
+/Users/paulojosedecarvalhoneto/Documents/Navegg Challenge/CRUDApi/src/main/java/com/navegg/challenge/CRUDApi/repository/ItemRepository.java
+/Users/paulojosedecarvalhoneto/Documents/Navegg Challenge/CRUDApi/src/main/java/com/navegg/challenge/CRUDApi/config/MyConfiguration.java
+/Users/paulojosedecarvalhoneto/Documents/Navegg Challenge/CRUDApi/src/main/java/com/navegg/challenge/CRUDApi/CrudApiApplication.java
+/Users/paulojosedecarvalhoneto/Documents/Navegg Challenge/CRUDApi/src/main/java/com/navegg/challenge/CRUDApi/model/Category.java
+/Users/paulojosedecarvalhoneto/Documents/Navegg Challenge/CRUDApi/src/main/java/com/navegg/challenge/CRUDApi/repository/CategoryRepository.java
+/Users/paulojosedecarvalhoneto/Documents/Navegg Challenge/CRUDApi/src/main/java/com/navegg/challenge/CRUDApi/model/Item.java
+/Users/paulojosedecarvalhoneto/Documents/Navegg Challenge/CRUDApi/src/main/java/com/navegg/challenge/CRUDApi/controller/APIController.java
+/Users/paulojosedecarvalhoneto/Documents/Navegg Challenge/CRUDApi/src/main/java/com/navegg/challenge/CRUDApi/model/Url.java
+/Users/paulojosedecarvalhoneto/Documents/Navegg Challenge/CRUDApi/src/main/java/com/navegg/challenge/CRUDApi/repository/UrlRepository.java

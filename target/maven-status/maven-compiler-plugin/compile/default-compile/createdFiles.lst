@@ -1,0 +1,10 @@
+com/navegg/challenge/CRUDApi/CrudApiApplication.class
+com/navegg/challenge/CRUDApi/model/Url.class
+com/navegg/challenge/CRUDApi/repository/UrlRepository.class
+com/navegg/challenge/CRUDApi/repository/CategoryRepository.class
+com/navegg/challenge/CRUDApi/repository/ItemRepository.class
+com/navegg/challenge/CRUDApi/config/MyConfiguration.class
+com/navegg/challenge/CRUDApi/model/Item.class
+com/navegg/challenge/CRUDApi/model/Category.class
+com/navegg/challenge/CRUDApi/controller/APIController.class
+com/navegg/challenge/CRUDApi/service/ItemService.class
